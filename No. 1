@@ -1,7 +1,7 @@
 # Rizka Nurul Septiani Hakim
 # 20051397026
 # UTS PRAKTIKUM GRAFIKA KOMPUTER
-# 1A. Algoritma Garis Brenseham
+# No.1 Algoritma Garis Bresenham
 
 
 from OpenGL.GL import *
